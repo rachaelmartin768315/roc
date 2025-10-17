@@ -138,3 +138,5 @@ wrong_type_function = |x| x * 3.14
 		(expr @3.19-3.29 (type "Str -> Error"))
 		(expr @7.23-7.35 (type "Num(Int(Signed64)) -> Error"))))
 ~~~
+
+<!-- Auto-update: 2025-10-17T15:23:59.441136 -->
